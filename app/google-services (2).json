@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "785224976851",
+    "project_id": "mera-college-57658",
+    "storage_bucket": "mera-college-57658.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785224976851:android:de2a4ab562930a9221c726",
+        "android_client_info": {
+          "package_name": "kiet.imam.meracollege"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEhdSOoe-jP0vgTA9PFBPUb7AdDDHZYXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
